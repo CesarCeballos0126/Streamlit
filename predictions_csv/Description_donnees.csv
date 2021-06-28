@@ -1,0 +1,9 @@
+Variable;Description;Type;Taux de NA;Gestion des NA;Distribution;Valeurs
+Code INSEE;Un code numérique;int64;0,00;.;Catégorielle;[11, 24, 27, 28, 32, 44, 52, 53, 75, 76, 84, 93]
+Région;Les noms des régions;object;0,00;.;Catégorielle;"['Auvergne-Rhône-Alpes', 'Bourgogne-Franche-Comté', 'Bretagne',
+'Centre-Val de Loire', 'Grand Est', 'Hauts-de-France', 'Normandie',
+'Nouvelle-Aquitaine', 'Occitanie', 'Pays de la Loire',
+""Provence-Alpes-Côte d'Azur"", 'Île-de-France']"
+Date;Date du jour;object;0,00;.;Quantitative;.
+Consommation;Consomation en MW;float64;0,00;12 lignes;Quantitative;.
+Meteo;Temperatura en C°;float64;0,00;.;Quantitative;.
